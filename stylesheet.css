@@ -1,0 +1,9 @@
+.alternatingColorTable tr:nth-child(even) td {
+    background-color:lightgray;
+    color:black;
+}
+
+.alternatingColorTable tr:nth-child(odd) td {
+    background-color:whitesmoke;
+    color:black;
+}
