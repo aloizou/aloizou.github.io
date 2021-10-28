@@ -10,5 +10,6 @@
 
 .border-round {
     border-radius: 10px;
-    border: 10px;
+    border: solid gray;
+    border-width: 5px;
 }
